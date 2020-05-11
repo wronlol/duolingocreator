@@ -110,7 +110,7 @@ def Bot():
 
 
 
-if platform.system() == "Windows OS":  # checking OS
+if platform.system() == "Windows":  # checking OS
     geckopath = "./geckodriver.exe"
 else:
     geckopath = "./geckodriver"
