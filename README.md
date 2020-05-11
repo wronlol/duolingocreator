@@ -7,8 +7,9 @@
    ```bash
    pip install selenium
    ```
-4. In the config file paste your referral link
-5. Run duobot.py using python
+4. Download this repository
+5. In the config file paste your referral link
+6. Run duobot.py using python
    ```bash
    python "duobot.py"
    or py "duobot.py"
